@@ -11,8 +11,8 @@
 2. [PRASANTH]
      * [TRAINING](https://github.com/prasanthmech080996-bot/training)
   
-     * [PROJECTS](https://github.com/sivadhanush726/project)
+     * [PROJECTS](https://github.com/prasanthmech080996-bot/project)
   
-     * [ PLACEMENT TRAINING](https://github.com/sivadhanush726/interview)
+     * [ PLACEMENT TRAINING](https://github.com/prasanthmech080996-bot/interview)
        
 ************************************************************************
