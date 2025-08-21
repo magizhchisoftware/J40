@@ -5,7 +5,7 @@
   
      * [PROJECTS](https://github.com/sivadhanush726/project)
   
-     * [ PLACEMENT TRAINING](https://github.com/sivadhanush726/interview)
+     * [PLACEMENT TRAINING](https://github.com/sivadhanush726/interview)
        
 ************************************************************************
 2. [PRASANTH]
